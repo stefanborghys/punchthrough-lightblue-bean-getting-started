@@ -27,7 +27,7 @@ Lightblue Bean: [http://punchthrough.com/bean](http://punchthrough.com/bean)
   - after a successfull verification the Bean Loader should show up  
   - select a Bean and (right-click) connect  
   ![Bean Loader > connect](https://raw.githubusercontent.com/stefanborghys/punchthrough-lightblue-bean-gettingstarted/master/img/bean_loader_connect.png)  
-8. update firmware  
+8. update firmware (only first time, otherwise skip)  
   - select a connected Beand and (right-click) update firmware  
   ![Bean Loader > update firmware](https://raw.githubusercontent.com/stefanborghys/punchthrough-lightblue-bean-gettingstarted/master/img/bean_loader_update_firmware.png)  
 
