@@ -1,8 +1,11 @@
 punchthrough-lightblue-bean-gettingstarted
 ==========================================
 
-Lightblue bean, Getting started
-
+A couple of months ago i kickstarted the Lightblue bean project from Punch Through on Kickstarter.  
+Some days ago (17/06/2014) i received my order in the mail. Time to play around!  
+  
+![@PunchThrough my beans just arrived, time tot play :)](https://pbs.twimg.com/media/BqVLkSyCUAAAjNU.jpg)  
+  
 Lightblue Bean: [http://punchthrough.com/bean](http://punchthrough.com/bean)
 
 # Getting started  
