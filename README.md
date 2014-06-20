@@ -25,11 +25,14 @@ Lightblue Bean: [http://punchthrough.com/bean](http://punchthrough.com/bean)
   ![blink example](https://raw.githubusercontent.com/stefanborghys/punchthrough-lightblue-bean-gettingstarted/master/img/blink_example.png)  
 7. connect your bean  
   - after a successfull verification the Bean Loader should show up  
-  - select a Bean and (right-click) connect  
+  - select a Bean and (right-click) Connect  
   ![Bean Loader > connect](https://raw.githubusercontent.com/stefanborghys/punchthrough-lightblue-bean-gettingstarted/master/img/bean_loader_connect.png)  
 8. update firmware (only first time, otherwise skip)  
-  - select a connected Beand and (right-click) update firmware  
+  - select a connected Beand and (right-click) Update Firmware  
   ![Bean Loader > update firmware](https://raw.githubusercontent.com/stefanborghys/punchthrough-lightblue-bean-gettingstarted/master/img/bean_loader_update_firmware.png)  
+9. upload compiled code  
+  - select a Beand and (righ-click) Program Sketch  
+  - when finished a message is shown  
 
 
 
